@@ -35,5 +35,8 @@ DOMAIN,tracking.miui.com
 DOMAIN,app.adjust.com
 DOMAIN,bdtj.tagtic.cn
 
+# Things3同步，在clash里有问题
+DOMAIN,cloud.culturedcode.com
+
 # Hypixel Network
 DOMAIN,rewards.hypixel.net
