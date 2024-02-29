@@ -835,7 +835,7 @@ cfw-bypass:
   - "*.tietuku.com"
   - "*.tiexue.net"
   - "*.tmiaoo.com"
-  - "*.trip.com"
+  # - "*.trip.com"
   - "*.ttmeiju.com"
   - "*.tudou.com"
   - "*.tuniu.com"
